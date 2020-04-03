@@ -8,7 +8,7 @@ module.exports = {
       host : 'localhost',
       database: 'cjs-web-store',
       user: 'postgres',
-      password: '1@Ammulu'
+      password: '<password>'
     }
     
   },
@@ -19,7 +19,7 @@ module.exports = {
       host : 'localhost',
       database: 'test-cjs-web-store',
       user: 'postgres',
-      password: '1@Ammulu'
+      password: '<password>'
     }
     
   },
